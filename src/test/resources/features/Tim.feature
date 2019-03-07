@@ -3,4 +3,5 @@ Feature:
   Then I am happy
 
   Scenario:
-    <Some interesting scenario steps here>
+  When I am happy
+  Then I feel good
