@@ -1,4 +1,4 @@
-Feature:
+Feature:Feature Name?
   When a thing happens
   Then a second thing happens
   Scenario:
