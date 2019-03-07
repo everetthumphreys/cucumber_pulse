@@ -3,5 +3,5 @@ Feature:
   Then I am happy
 
   Scenario:
-  When I am happy
+  When I am happy sometimes
   Then I feel good
