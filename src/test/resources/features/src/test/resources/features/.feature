@@ -1,5 +1,6 @@
 Feature:
-  <Some interesting description here>
-
+  When a thing happens
+  Then a second thing happens
   Scenario:
-    <Some interesting scenario steps here>
+    When something happens
+    Then nothing happens
