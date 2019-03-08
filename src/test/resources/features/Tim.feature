@@ -1,5 +1,5 @@
 Feature:
-  When I fly a drone
+  When I fly a drone ayy
   Then I am happy
 
   Scenario:
