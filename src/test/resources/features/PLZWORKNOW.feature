@@ -4,3 +4,4 @@ Feature:
   Scenario: PLZWORKNOW
     Given a thing
     Then another thing
+    Then another thing
