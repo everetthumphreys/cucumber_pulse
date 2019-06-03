@@ -4,3 +4,4 @@ Feature:
   Scenario:
     Given a thing exists
     Then another thing happens
+    And whatever happens
