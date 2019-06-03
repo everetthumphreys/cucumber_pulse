@@ -1,7 +1,7 @@
-Feature:
-  <Some interesting description here>
+Feature: FeatureName
+  This is a description
 
-  Scenario:
+  Scenario: PLZWORK
     Given a thing exists
     Then another thing happens
     And whatever happens
