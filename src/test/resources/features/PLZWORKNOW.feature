@@ -5,3 +5,4 @@ Feature:
     Given a thing
     Then another thing
     Then another thing
+    Then another thing
