@@ -6,3 +6,4 @@ Feature: FeatureName
     Then another thing happens
     And whatever happens
     And then I die
+    And something happens
